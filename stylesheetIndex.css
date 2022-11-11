@@ -1,0 +1,207 @@
+a:link, a:visited {
+  background-color: rgb(185, 195, 199, .5);
+  color: black;
+  border: 2px outset #899296;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-family: serif;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: rgb(137, 146, 150, .2);
+  font-family: serif;
+  color: white;
+}
+
+ 
+#BodyIndex {
+  background-image: url(https://wallpaper.dog/large/5567966.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  align-items: center;
+  text-align: center;
+ }
+#computerme1 {
+  text-align: center;
+  height: 300px;
+  width: 400px;
+  border: 5px outset;
+  border-radius: 5px;
+}
+
+#computerme2 {
+  text-align: center;
+  height: 300px;
+  width: 400px;
+  border: 5px outset;
+  border-radius: 5px;
+}
+
+#header {
+  background-color: rgb(205, 221, 226, .8);
+  border: outset;
+  border-radius: 8px;
+  margin-left: 35%;
+  margin-right: 35%;
+
+
+
+}
+
+#P1index {
+  background-color:rgb(205, 221, 226, .8);
+  border: 2px solid;
+  border-color: #81898c;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-family: arial;
+
+} 
+
+#ElemB {
+  background-image: url(https://wallpaper.dog/large/5567966.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  align-items: center;
+  text-align: center;
+}
+
+#ElemH {
+  background-color: rgb(205, 221, 226, .8);
+  border: outset;
+  border-radius: 8px;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+#ElemP {
+  background-color: rgb(205, 221, 226, .8);
+  border: 2px solid;
+  border-color: #81898c;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-family: arial;
+}
+
+#ElemP2 {
+  background-color: rgb(205, 221, 226, .8);
+  border: 2px solid;
+  border-color: #81898c;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-family: arial;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#JHSB {
+  background-image: url(https://wallpaper.dog/large/5567966.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  align-items: center;
+  text-align: center;
+}
+
+#jhsfriends {
+  text-align: center;
+  height: 300px;
+  width: 400px;
+  border: 5px outset;
+  border-radius: 5px;
+}
+
+#jhsme {
+  text-align: center;
+  height: 300px;
+  width: 400px;
+  border: 5px outset;
+  border-radius: 5px;
+}
+
+#jhsme2 {
+  text-align: center;
+  height: 300px;
+  width: 400px;
+  border: 5px outset;
+  border-radius: 5px;
+}
+
+#JHSH {
+  background-color: rgb(205, 221, 226, .8);
+  border: outset;
+  border-radius: 8px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+
+
+#JHSP {
+  background-color: rgb(205, 221, 226, .8);
+  border: 2px solid;
+  border-color: #81898c;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-family: arial;
+}
+
+#JHSP2 {
+  background-color: rgb(205, 221, 226, .8);
+  border: 2px solid;
+  border-color: #81898c;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-family: arial;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#SHSB {
+  background-image: url(https://wallpaper.dog/large/5567966.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  align-items: center;
+  text-align: center;
+}
+
+#SHSH {
+  background-color: rgb(205, 221, 226, .8);
+  border: outset;
+  border-radius: 8px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#shsme {
+  text-align: center;
+  height: 300px;
+  width: 600px;
+  border: 5px outset;
+  border-radius: 5px;
+}
+
+#SHSP {
+  background-color: rgb(205, 221, 226, .8);
+  border: 2px solid;
+  border-color: #81898c;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-family: arial;
+}
+
+#SHSP2 {
+  background-color: rgb(205, 221, 226, .8);
+  border: 2px solid;
+  border-color: #81898c;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-family: arial;
+  margin-right: 5%;
+  margin-left: 5%;
+}
