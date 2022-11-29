@@ -1,0 +1,344 @@
+a:link, a:visited {
+  padding-right: 60px;
+  font-family: 'Poppins';
+  font-size: 17px;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+}
+
+a:hover, a:active {
+  background-color: rgb(193, 193, 193, .5);
+  font-family: serif;
+  color: white;
+  transition-duration: 1s;
+}
+
+#BodyIndex {
+  background-image: url(https://wallpaperaccess.com/full/270969.jpg);
+  background-attachment: fixed;
+  background-size: cover; 
+}
+
+#IndexNav {
+  align-items: right;
+  text-align: right;
+  padding: 8px;
+  margin: 0 auto;
+  width: auto;
+  height: auto;
+
+}
+
+#IndexHeader1 {
+  color: white;
+  font-size: 60px;
+  padding: 0;
+}
+
+#IndexBio {
+  font-style: sans-serif;
+  border: 1px outset;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+#BioNav {
+  align-items: right;
+  text-align: right;
+  padding: 8px;
+  margin: 0 auto;
+  width: auto;
+  height: auto;
+}
+ 
+#BodyBio {
+  background-image: url(https://wallpaperaccess.com/full/270969.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  
+ }
+#computerme1 {
+  align-items: right;
+  height: 300px;
+  width: 400px;
+  border: 1px solid;
+  margin-right: 40%;
+  margin-left: 12%;
+ 
+}
+
+#computerme2 {
+  align-items: right;
+  height: 300px;
+  width: 400px;
+  border: 1px solid;
+  margin-right: 40%;
+  margin-left: 12%;
+  
+}
+
+#header1 {
+  background-color: rgb(193, 193, 193, .3);
+  color: white;
+  margin-left: 15%;
+  margin-right: 70%;
+  font-family: "helvitica",sans-serif;
+}
+
+
+
+#header2 {
+  background-color: rgb(193, 193, 193, .3);
+  color: white;
+  margin-left: 15%;
+  margin-right: 70%;
+  font-family: "helvitica",sans-serif;
+}
+
+#header3 {
+  background-color: rgb(193, 193, 193, .3);
+  color: white;
+  margin-left: 15%;
+  margin-right: 60%;
+  font-family: "helvitica",sans-serif;
+}
+
+
+#P1Bio {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+} 
+
+#P1Bio1 {
+  color: #d4d4d4;
+  border
+  font-family: arial;
+  text-align: left;
+} 
+
+#P1Bio2 {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+} 
+
+#P1Bio3 {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+} 
+
+#P1Bio4 {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+} 
+
+#Video {
+  align-items: center;
+  text-align: center;
+}
+
+#ElemNav {
+  align-items: right;
+  text-align: right;
+  padding: 8px;
+  margin: 0 auto;
+  width: auto;
+  height: auto;
+}
+
+#ElemB {
+  background-image: url(https://wallpaperaccess.com/full/270969.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  align-items: center;
+  text-align: center;
+}
+
+#ElemH {
+  background-color: rgb(193, 193, 193, .3);
+  color: white;
+  margin-left: 15%;
+  margin-right: 60%;
+  font-family: "helvitica",sans-serif;
+}
+
+#ElemP {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+#ElemMe {
+  align-items: left;
+  height: 300px;
+  width: 400px;
+  border: 1px solid;
+  margin-right: 47%;
+  margin-left: 7%;
+}
+
+#ElemP2 {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+#JHSNav {
+  align-items: right;
+  text-align: right;
+  padding: 8px;
+  margin: 0 auto;
+  width: auto;
+  height: auto;
+}
+
+#JHSB {
+  background-image: url(https://wallpaperaccess.com/full/270969.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  align-items: center;
+  text-align: center;
+}
+
+#jhsfriends {
+  align-items: left;
+  height: 300px;
+  width: 400px;
+  border: 1px solid;
+  margin-right: 40%;
+  margin-left: 1%;
+}
+
+#jhsme {
+  align-items: left;
+  height: 300px;
+  width: 400px;
+  border: 1px solid;
+  
+}
+
+#jhsme2 {
+  align-items: right;
+  height: 300px;
+  width: 400px;
+  border: 1px solid;
+}
+
+#JHSH {
+  background-color: rgb(193, 193, 193, .3);
+  color: white;
+  margin-left: 15%;
+  margin-right: 50%;
+  font-family: "helvitica",sans-serif;
+}
+
+
+
+#JHSP1 {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+#JHSP2 {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+#JHSP3 {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+#SHSNav {
+  align-items: right;
+  text-align: right;
+  padding: 8px;
+  margin: 0 auto;
+  width: auto;
+  height: auto;
+}
+
+#SHSB {
+  background-image: url(https://wallpaperaccess.com/full/270969.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  align-items: center;
+  text-align: center;
+}
+
+#SHSH {
+  background-color: rgb(193, 193, 193, .3);
+  color: white;
+  margin-left: 15%;
+  margin-right: 50%;
+  font-family: "helvitica",sans-serif;
+}
+
+#shsme {
+  align-items: left;
+  height: 300px;
+  width: 600px;
+  border: 1px solid;
+  margin-right: 40%;
+  margin-left: 15%;
+}
+
+#SHSP {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+#SHSP2 {
+  color: #d4d4d4;
+  background-color: rgb(193, 193, 193, .1);
+  text-align: center;
+  font-family: "helvitica",sans-serif;
+  margin-right: 15%;
+  margin-left: 15%;
+}
